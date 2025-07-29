@@ -142,3 +142,30 @@
 .direction-box button:hover {
   background: #0056b3;
 }
+
+.app {
+  font-family: sans-serif;
+}
+
+.search-container {
+  padding: 10px;
+  background: #f0f0f0;
+  display: flex;
+  gap: 10px;
+}
+
+.search-container input {
+  padding: 8px;
+  width: 200px;
+}
+
+.locate-button {
+  padding: 8px 12px;
+  cursor: pointer;
+}
+
+.route-info {
+  padding: 8px;
+  background: #e0f7fa;
+  font-weight: bold;
+}
